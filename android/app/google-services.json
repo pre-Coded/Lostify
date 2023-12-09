@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1035469091979",
+    "project_id": "lostify-777d0",
+    "storage_bucket": "lostify-777d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035469091979:android:1a049ffcb70bb858d6508e",
+        "android_client_info": {
+          "package_name": "com.lostify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035469091979-v9o4bse21qm1ab7bsrm1gm01ume8cjdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApHOwZqdzDS52nxtjwinhwVtD9xro8Ytk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035469091979-snrrfqdhifb041lih8at1mmp3500lfgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1035469091979-6skqvr1abh7l2506r7077jopkfjbmamb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.lostify"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
